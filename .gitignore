@@ -1,0 +1,14 @@
+
+# Node
+node_modules/
+*.log
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Others
+uploads/
+temp/
+*.h5

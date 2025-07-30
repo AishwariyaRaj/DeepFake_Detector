@@ -1,0 +1,14 @@
+# Node
+node_modules/
+*.log
+
+# Python
+*.pyc
+__pycache__/
+
+# Temp/Uploads
+uploads/
+temp/
+
+# Git LFS files (temporarily allow .h5 for tracking)
+# *.h5   <-- REMOVE or COMMENT this line
