@@ -31,6 +31,15 @@ pip install -r requirements.txt
 python app.py
 
 ```
+## 📊 Results
+
+![Deepfake Detection Result](https://i.postimg.cc/FFcHdwyk/Screenshot-679.png)
+
+![Deepfake Detection Result](https://i.postimg.cc/2j4C8hY4/Screenshot-680.png)
+
+![Deepfake Detection Result](https://i.postimg.cc/L8hdfZcQ/Screenshot-685.png)
+
+
 # 📄 License
 ```
 This project is open-source and available for personal or commercial use
